@@ -1,19 +1,34 @@
 ### Hi there 👋 I'm Luel.
 
-<img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
+<h3> 👨🏻•💻 About Me </h3>
 
-## :trophy: My Github Stats:
+- 🤔 &nbsp; Exploring new technologies.
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-   <a href="https://github.com/luelhagos">
-    <img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
-  </a>
-</div>
+- 🎓 &nbsp; 
+- 
+- 🌱 &nbsp; 
+
+- ✍️ &nbsp; 
 
 
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; 
+
+- 🌐 &nbsp; 
+
+<!--
+
+- 🛢 &nbsp; 
+
+- 🔧 &nbsp; 
+
+- 🖥 &nbsp; 
+
+-->
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +43,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+   <a href="https://github.com/luelhagos">
+    <img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+  </a>
+</div>
+
+
+
