@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and interested in Machine Learning, Deep Learning, Data Science DL and Natural Language Processing.
 
--->
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
