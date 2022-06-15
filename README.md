@@ -8,12 +8,11 @@
 <a href="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-</div>
-<p align="center">
-  <a href="https://github.com/luelhagos">
+   <a href="https://github.com/luelhagos">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
-</p>
+</div>
+
 
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
