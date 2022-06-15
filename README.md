@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🎓 &nbsp;I have studied Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
+- 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
 - 🤔 &nbsp; Exploring new technologies and interested in Machine Learning, Deep Learning, Data Science and Natural Language Processing.
 
 <!--
