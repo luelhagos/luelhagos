@@ -9,7 +9,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
    <a href="https://github.com/luelhagos">
-    <img width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+    <img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
 </div>
 
