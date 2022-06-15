@@ -2,31 +2,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-
-- 🎓 &nbsp; 
-- 
-- 🌱 &nbsp; 
-
-- ✍️ &nbsp; 
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; 
-
-- 🌐 &nbsp; 
-
-<!--
-
-- 🛢 &nbsp; 
-
-- 🔧 &nbsp; 
-
-- 🖥 &nbsp; 
+- 🤔 &nbsp; Exploring new technologies and interested in Machine Learning, Deep Learning, Data Science DL and Natural Language Processing.
 
 -->
 <!--
