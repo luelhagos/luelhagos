@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
 <div id="badges">
@@ -11,14 +11,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
 
-## GitHub Analytics
-<p align="center">
-  <a href="https://github.com/luelhagos">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luelhagos&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=luelhagos&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
-  </a>
-  <a href="https://github.com/luelhagos"><img alt=" Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=luelhagos&theme=react-dark&hide_border=true" /></a>
-</p>
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=luelhagos&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luelhagos&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luelhagos&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
