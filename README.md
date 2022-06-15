@@ -1,7 +1,5 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</div>
+### Hi there 👋 I'm Luel.
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luel-hagos1/">
