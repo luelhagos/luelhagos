@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
 
-<h3> 👨🏻•💻 About Me </h3>
+### 👨🏻💻 About Me
 
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
