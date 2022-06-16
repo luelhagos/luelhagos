@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
+
 ## :trophy: My Github Stats:
 
 <p align="center">
