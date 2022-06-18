@@ -6,6 +6,7 @@ I am passionate about writing code, solving problems, automating stuff, Machine 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luel-hagos1/) [Gmail](mailto:luelh0101@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
 
+
 ## 👨🏻💻 About Me
 
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
