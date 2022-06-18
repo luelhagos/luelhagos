@@ -1,5 +1,9 @@
-## Hi there 👋 I'm Luel
+## Hi there 👋 
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+This is Luel: passionate about writing code, solving problems, automating stuff, Machine Learning, Deep Learning, Data Science and Natural Language Processing.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luel-hagos1/) [Gmail](mailto:luelh0101@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=luelhagos&style=flat-square&color=blue" alt=""/>
 
 ## 👨🏻💻 About Me
@@ -7,8 +11,7 @@
 - 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
-- 🤔 &nbsp; Exploring new technologies and interested in Machine Learning, Deep Learning, Data Science and Natural Language Processing.
-
+- 🤔 &nbsp; Exploring new technologies.
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
