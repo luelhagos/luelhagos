@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Luel.
 
-<img width="60%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I am passionate about writing code, solving problems, automating stuff, Machine Learning, Deep Learning, Data Science and Natural Language Processing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luel-hagos1/) [Gmail](mailto:luelh0101@gmail.com)
