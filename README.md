@@ -8,8 +8,8 @@ I am passionate about writing code, solving problems, automating stuff, Machine 
 
 
 ## 👨🏻💻 About Me
-
-- 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the African Institute for Mathematical Sciences.
+- 🔭 I’m currently working on Natural language procesing.
+- 🎓 &nbsp;I have completed a Master's Degree in Mathematical Sciences, majoring in Data Science at the [African Institute for Mathematical Sciences](https://aims.ac.rw/).
 - 🎓 &nbsp;I completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science and Engineering at Mekelle Institute of Technology.
 - 🤔 &nbsp; Exploring new technologies.
