@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :trophy: My Github Stats:
+## My Github Stats:
 
 <table class="center" style="width:100%;">
   <tr>
@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 </td>
   </tr>
 </table>
-
-
