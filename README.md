@@ -8,7 +8,7 @@ I am passionate about writing code, solving problems, automating stuff, Machine 
 
 
 ## 👨🏻💻 About Me
-- 🔭 I’m currently working on Natural language procesing.
+- 🔭 I'm a data scientist currently working on natural language processing.
 - 🎓 &nbsp;I have completed a Master's degree in Mathematical Sciences, majoring in Data Science, at the [African Institute for Mathematical Sciences](https://aims.ac.rw/).
 - 🎓 &nbsp;I have completed a Bachelor's degree in Computer Science and Engineering at [Mekelle Institute of Technology](https://en.wikipedia.org/wiki/Mekelle_Institute_of_Technology).
 - 🤔 &nbsp; Exploring new technologies.
