@@ -8,9 +8,9 @@ I am passionate about writing code, solving problems, automating stuff, Machine 
 
 
 ## 👨🏻💻 About Me
-- 🔭 I'm a data scientist currently working on natural language processing.
-- 🎓 &nbsp;I have completed a Master's degree in Mathematical Sciences, majoring in Data Science, at the [African Institute for Mathematical Sciences](https://aims.ac.rw/).
-- 🎓 &nbsp;I have completed a Bachelor's degree in Computer Science and Engineering at [Mekelle Institute of Technology](https://en.wikipedia.org/wiki/Mekelle_Institute_of_Technology).
+- 🔭 I'm a data scientist currently working on Natural Language Processing.
+- 🎓 &nbsp;I have completed a Master's in Mathematical Sciences, majoring in Data Science, at the [African Institute for Mathematical Sciences](https://aims.ac.rw/).
+- 🎓 &nbsp;I have completed a Bachelor's degree in Computer Science and Engineering at [Mekelle Institute of Technology]([https://en.wikipedia.org/wiki/Mekelle_Institute_of_Technology](https://www.mit.edu.et/#/)).
 - 🤔 &nbsp; Exploring new technologies.
 <!--
 **luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
