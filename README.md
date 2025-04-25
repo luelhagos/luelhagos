@@ -8,10 +8,10 @@ I turn data into insights, build ML models that solve real-world problems, and a
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/luel-hagos/)
 
----
+
 
 ## 👨🏻💻 About Me
-- 🔭 **Current focus:** Building NLP pipelines for text analysis  
+- 🔭 **Current focus:** Exploring NLP
 - 🎓 **Education:**  
   - M.S. in Mathematical Sciences (Data Science) @ [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw/).
   - B.S. in Computer Science & Engineering @ [Mekelle Institute of Technology](https://www.mit.edu.et/#/).  
