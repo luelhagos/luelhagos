@@ -12,7 +12,6 @@ I turn data into insights, build ML models that solve real-world problems, and a
 
 ## 👨🏻💻 About Me
 - 🔭 **Current focus:** Exploring NLP
-- 🎓 **Education:**  
 - 💼 **Experience:** 2+ years as a Data Scientist, delivering dashboards, predictive models, and automation solutions  
 - 🤔 **Interests:** Deep Learning • Natural Language Processing • Data Visualization • Automation
 
