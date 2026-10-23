@@ -14,9 +14,10 @@ I build ML systems that ship, and I do research on speech and language technolog
 - **Ge'ez TTS**: end-to-end text-to-speech for Ge'ez with Tacotron 2 + WaveGlow, including text normalization and alignment.
 
 ## Publications
-- mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks · **IEEE ASRU 2025** (first author)
-- Ibom NLP: A Step Toward Inclusive NLP for Nigeria's Minority Languages · **IJCNLP-AACL 2025**
-- OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages · under review
+- [mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks](https://arxiv.org/abs/2506.08400) · **IEEE ASRU 2025** (co-first author)
+- [EmoFI-TTS: Face-Conditioned Expressive Voice Synthesis with Intensity Modulation](https://arxiv.org/abs/2610.30477) · under review (co-first author)
+- [Ibom NLP: A Step Toward Inclusive NLP for Nigeria's Minority Languages](https://arxiv.org/abs/2511.06531) · **IJCNLP-AACL 2025**
+- [OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages](https://arxiv.org/abs/2606.09553) · under review
 
 ## 🔧 Tech & Tools
 <p>
