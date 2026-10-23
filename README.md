@@ -1,57 +1,33 @@
-## Hi there 👋, I’m Luel  
-**Data Scientist | ML & NLP Enthusiast**
+## Hi, I'm Luel 👋
+**ML Engineer | Speech & NLP for low-resource languages**
 
-<img align="right" width="180" alt="Waving robot" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+I build ML systems that ship, and I do research on speech and language technology for languages that most models ignore. Master's student in Data Science at Duke; previously four years at Ishango.ai building production LLM systems, and a research intern at Mila.
 
-I turn data into insights, build ML models that solve real-world problems, and automate everything I can.  
+📌 **Looking for a summer 2027 internship in ML, speech, or applied AI.** Reach me at luelbhagos@gmail.com.
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/luel-hagos/)
+[Portfolio](https://luelhagos.github.io/) • [LinkedIn](https://www.linkedin.com/in/luel-hagos/) • [Hugging Face](https://huggingface.co/luel) • [Google Scholar](https://scholar.google.com/citations?user=QZvCfFYAAAAJ&hl=en)
 
+## Selected work
+- **Tigrinya GPT-2**: 51M-parameter model trained from scratch on 21M Tigrinya tokens. [Demo](https://huggingface.co/spaces/luel/tigrinya-gpt2-text-generator) · [Model](https://huggingface.co/luel/gpt2-tigrinya-medium)
+- **Gemma-3-4B Tigrinya / Tigrinya-QA**: SFT and instruction-tuned Gemma 3 for a language with minimal LLM support. [Base](https://huggingface.co/luel/gemma-3-4b-tigrinya) · [QA](https://huggingface.co/luel/gemma-3-4b-tigrinya-qa)
+- **mSTEB**: multilingual benchmark of LLMs on speech and text tasks. [Paper](https://arxiv.org/abs/2506.08400) · [Leaderboard](https://huggingface.co/spaces/luel/msteb_leaderboard)
+- **Ge'ez TTS**: end-to-end text-to-speech for Ge'ez with Tacotron 2 + WaveGlow, including text normalization and alignment.
 
-
-## 👨🏻💻 About Me
-- 🔭 **Current focus:** Exploring NLP
-- 💼 **Experience:** 2+ years as a Data Scientist, delivering dashboards, predictive models, and automation solutions  
-- 🤔 **Interests:** Deep Learning • Natural Language Processing • Data Visualization • Automation
+## Publications
+- mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks · **IEEE ASRU 2025** (first author)
+- Ibom NLP: A Step Toward Inclusive NLP for Nigeria's Minority Languages · **IJCNLP-AACL 2025**
+- OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages · under review
 
 ## 🔧 Tech & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FF6E3A?logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Text–to–Speech-4285F4?logo=google&logoColor=white" alt="Text-to-Speech"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FF6E3A?logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Prefect-070E10?logo=prefect&logoColor=white" alt="Prefect"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
-
-<!--
-**luelhagos/luelhagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My Github Stats:
-
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luelhagos&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luelhagos&langs_count=12&&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
-</td>
-  </tr>
-</table>
