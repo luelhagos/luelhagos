@@ -9,7 +9,7 @@ I build ML systems that ship, and I do research on speech and language technolog
 
 ## Selected work
 - **Tigrinya GPT-2**: 51M-parameter model trained from scratch on 21M Tigrinya tokens. [Demo](https://huggingface.co/spaces/luel/tigrinya-gpt2-text-generator) · [Model](https://huggingface.co/luel/gpt2-tigrinya-medium)
-- **Gemma-3-4B Tigrinya / Tigrinya-QA**: SFT and instruction-tuned Gemma 3 for a language with minimal LLM support. [Base](https://huggingface.co/luel/gemma-3-4b-tigrinya) · [QA](https://huggingface.co/luel/gemma-3-4b-tigrinya-qa)
+- **Gemma-3-4B Tigrinya**: SFT and instruction-tuned Gemma 3 for Tigrinya. [Base](https://huggingface.co/luel/gemma-3-4b-tigrinya) · [QA](https://huggingface.co/luel/gemma-3-4b-tigrinya-qa)
 - **mSTEB**: multilingual benchmark of LLMs on speech and text tasks. [Paper](https://arxiv.org/abs/2506.08400) · [Leaderboard](https://huggingface.co/spaces/luel/msteb_leaderboard)
 - **Ge'ez TTS**: end-to-end text-to-speech for Ge'ez with Tacotron 2 + WaveGlow, including text normalization and alignment.
 
