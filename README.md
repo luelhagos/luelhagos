@@ -1,7 +1,7 @@
 ## Hi, I'm Luel 👋
 **ML Engineer | Speech & NLP for low-resource languages**
 
-I build ML systems that ship, and I do research on speech and language technology for languages that most models ignore. Master's student in Data Science at Duke; previously four years at Ishango.ai building production LLM systems, and a research intern at Mila.
+I build ML systems that ship, and I do research on speech and language technology for languages that most models ignore. Master's in Data Science at Duke; previously, four years at Ishango.ai and a research intern at Mila.
 
 📌 **Looking for a summer 2027 internship in ML, speech, or applied AI.** Reach me at luelbhagos@gmail.com.
 
